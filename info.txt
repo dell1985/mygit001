@@ -1,0 +1,3 @@
+下载年度交易数据格式
+  www.shfe.com.cn/historyData/MarketData_Year_2018.zip
+每天交易数据
