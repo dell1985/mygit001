@@ -9,6 +9,9 @@ import requests
 ymd = csv.reader(open("add4.csv"))
 
 
+
+
+
 for row in ymd:
 
     # 输出的每一行是一个list,list中的每一个元素转换成了string类型
