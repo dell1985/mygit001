@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f34d8cde-a712-4305-af0e-dfb91ac7f655" name="Default Changelist" comment="日交易数据">
+    <list default="true" id="f34d8cde-a712-4305-af0e-dfb91ac7f655" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lx20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="54">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -408,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554905228541</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="日交易数据">
+      <created>1554905661642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554905661642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -422,6 +429,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="24" width="1325" height="767" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14033742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -446,7 +454,8 @@
     <MESSAGE value="lx9" />
     <MESSAGE value="lx11" />
     <MESSAGE value="日期文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="日期文件" />
+    <MESSAGE value="日交易数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="日交易数据" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stu_csv.csv" />
@@ -770,8 +779,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lx20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="54">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
